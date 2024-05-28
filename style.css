@@ -1,9 +1,18 @@
-* {
+@font-face {
+    font-family: 'San Francisco';
+    src: url('path/to/san-francisco.woff2') format('woff2'),
+         url('path/to/san-francisco.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  * {
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: SF PRO DISPLAY;
+    font-family: 'San Francisco', sans-serif;
   }
+  
   html,
   body {
     height: 100%;
