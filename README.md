@@ -4,9 +4,9 @@
 
 I'm thrilled to announce the completion of my latest web development project: an Apple Vision Pro website clone. This project was an incredible learning journey, and I'm proud of the results. Using a combination of HTML, CSS, JavaScript, ScrollTrigger, and GSAP, I've created a visually appealing and highly interactive website.
 
-![Screenshot 2024-05-30 122550]
+![Apple Vision Pro Website Clone](https://github.com/Sainath0009/Apple-Vision-Website-Clone/assets/161853073/98d72acf-e680-4c6e-b413-8d4e91bc4ef6)
 
-## Key Features(https://github.com/Sainath0009/Apple-Vision-Website-Clone/assets/161853073/98d72acf-e680-4c6e-b413-8d4e91bc4ef6)
+## Key Features
 
 - **Smooth Animations**: Leveraging the power of GSAP, I've implemented fluid animations that enhance the user experience and bring the site to life.
 - **Interactive Scrolling Effects**: With ScrollTrigger, the site responds dynamically to user scrolling, creating an engaging and immersive browsing experience.
